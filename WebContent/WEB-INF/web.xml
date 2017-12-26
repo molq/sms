@@ -6,11 +6,11 @@
     <servlet-class>com.smslib.servlet.SmslibServlet</servlet-class>
     <init-param>
       <param-name>dkmc</param-name>
-      <param-value>modem.com1</param-value>
+      <param-value>SMSCat1</param-value>
     </init-param>
     <init-param>
       <param-name>ckmc</param-name>
-      <param-value>COM3</param-value>
+      <param-value>COM4</param-value>
     </init-param>
     <init-param>
       <param-name>bdpl</param-name>

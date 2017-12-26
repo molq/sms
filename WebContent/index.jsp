@@ -12,7 +12,7 @@
 	<a href="http://172.16.65.83/smslib-lytx/smslib?sjh=15957303069&dx=接口测试1">测试2</a>
 	
 	<p>测试的接口</p>
-	<p>http://172.16.65.83/smslib-lytx/smslib?sjh=15158111975&dx=最后再测一条qq tall me whta you see</p>
+	<p>http://10.141.47.210:9005/smslib-lytx/smslib?sjh=15957303069&dx=最后再测一条qq tall me whta you see</p>
 	<form action="smslib" method="get">	
 		手机号:<input type="text" id="sjh" name="sjh" /><br>
 		短信内容:<input type="text" id="dx" name="dx"/>
